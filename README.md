@@ -9,3 +9,4 @@
 * [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/1478909161)
 * [Principles: Life and Work](https://www.amazon.com/Simon-Schuster-Audio-Principles-Life/dp/B074B2CZJG/)
 * [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
+* [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
