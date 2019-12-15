@@ -1,5 +1,6 @@
 # Books
 
+* [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.amazon.com/gp/product/0932633013/)
 * [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/)
 * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
