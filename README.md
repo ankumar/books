@@ -4,7 +4,7 @@
 * [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.amazon.com/gp/product/0932633013/)
 * [The Psychology of Computer Programming](https://www.amazon.com/gp/product/0932633420/)
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful-ebook/dp/B01069X4H0/)
-* []()
+* [How People Harness Their Collective Wisdom And Power to Construct the Future](https://www.amazon.com/dp/1593114826/)
 * []()
 * []()
 * []()
