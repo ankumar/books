@@ -4,6 +4,8 @@
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
 * [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing-ebook/dp/B07FMDY5CC/)
 
+---
+
 * [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/)
 * [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.amazon.com/gp/product/0932633013/)
 * [The Psychology of Computer Programming](https://www.amazon.com/gp/product/0932633420/)
@@ -15,6 +17,8 @@
 * [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/1478909161)
 * [Principles: Life and Work](https://www.amazon.com/Simon-Schuster-Audio-Principles-Life/dp/B074B2CZJG/)
 * [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
+
+---
 
 * []()
 * []()
