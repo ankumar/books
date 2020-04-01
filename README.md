@@ -6,12 +6,14 @@
 
 * [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
-
 * [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing-ebook/dp/B07FMDY5CC/)
 
 ---
 
 * [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB/)
+
+---
+
 * [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/)
 * [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.amazon.com/gp/product/0932633013/)
 * [The Psychology of Computer Programming](https://www.amazon.com/gp/product/0932633420/)
