@@ -3,6 +3,7 @@
 * [Software Development and Reality Construction](https://www.amazon.com/Software-Development-Reality-Construction-Christiane-dp-354054349X/dp/354054349X/)
 * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
 * [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
+* [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
 
 ---
 
