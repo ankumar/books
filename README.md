@@ -20,6 +20,7 @@
 
 ---
 
+* [Overcoming Organizational Defenses: Facilitating Organizational Learning](https://www.amazon.com/Overcoming-Organizational-Defenses-Facilitating-Learning/dp/0205123384/)
 * [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/)
 * [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.amazon.com/gp/product/0932633013/)
 * [The Psychology of Computer Programming](https://www.amazon.com/gp/product/0932633420/)
