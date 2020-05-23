@@ -34,6 +34,6 @@
 
 ---
 
-* []()
+* [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook/)
 * []()
 * []()
