@@ -14,6 +14,7 @@
 ---
 
 * [Ultra-Large-Scale Systems The Software Challenge of the Future](https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607)
+* [The Customer-Driven Culture: A Microsoft Story](https://learning.oreilly.com/library/view/the-customer-driven-culture/9781492058700/)
 * [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB/)
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8/)
