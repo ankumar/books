@@ -38,3 +38,7 @@
 * [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/dp/B0795DNWCF/)
 * []()
 * []()
+
+---
+
+* [The Field Guide to Understanding 'Human Error'](https://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI/)
