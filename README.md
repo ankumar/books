@@ -36,8 +36,6 @@
 
 * [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook/)
 * [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/dp/B0795DNWCF/)
-* []()
-* []()
 
 ---
 
