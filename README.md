@@ -36,6 +36,7 @@
 
 * [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook/)
 * [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/dp/B0795DNWCF/)
+* [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook/dp/B012271YB2)
 
 ---
 
