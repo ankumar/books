@@ -4,6 +4,7 @@
 * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
 * [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
 * [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 
 ---
 
