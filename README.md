@@ -33,6 +33,10 @@
 * [Principles: Life and Work](https://www.amazon.com/Simon-Schuster-Audio-Principles-Life/dp/B074B2CZJG/)
 * [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
 * [The Art of Leadership: Small Things, Done Well](https://www.amazon.com/dp/1492045691/)
+* [RESILIENT MANAGEMENT](https://www.amazon.com/RESILIENT-MANAGEMENT-Lara-Hogan/dp/1937557820/)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
+* [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)
+* [Eli Goldratt](https://www.amazon.com/s?k=Eli+Goldratt+collection)
 
 ---
 
