@@ -1,4 +1,8 @@
 # Books
+
+* [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
+---
+
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 * [Software Development and Reality Construction](https://www.amazon.com/Software-Development-Reality-Construction-Christiane-dp-354054349X/dp/354054349X/)
 * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
