@@ -22,10 +22,8 @@
 * [The Customer-Driven Culture: A Microsoft Story](https://learning.oreilly.com/library/view/the-customer-driven-culture/9781492058700/)
 * [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB/)
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+* [The Unicorn Project ](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)
 * [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8/)
-
----
-
 * [Overcoming Organizational Defenses: Facilitating Organizational Learning](https://www.amazon.com/Overcoming-Organizational-Defenses-Facilitating-Learning/dp/0205123384/)
 * [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/)
 * [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.amazon.com/gp/product/0932633013/)
