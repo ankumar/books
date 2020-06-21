@@ -40,7 +40,7 @@
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
 * [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)
 * [Eli Goldratt](https://www.amazon.com/s?k=Eli+Goldratt+collection)
-* []()
+* [Technical Leadership Masterclass](https://github.com/ankumar/Architecture/blob/main/Patterns/Technical%20Leadership.md)
 
 ---
 
