@@ -15,12 +15,12 @@
 * [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
 * [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing-ebook/dp/B07FMDY5CC/)
+* [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB/)
 
 ---
 
 * [Ultra-Large-Scale Systems The Software Challenge of the Future](https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607)
 * [The Customer-Driven Culture: A Microsoft Story](https://learning.oreilly.com/library/view/the-customer-driven-culture/9781492058700/)
-* [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB/)
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * [The Unicorn Project ](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)
 * [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8/)
