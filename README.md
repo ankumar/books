@@ -8,6 +8,7 @@
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * [The Unicorn Project ](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
 
 * [Sam Walton: Made In America](https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835/)
 * [Ultra-Large-Scale Systems The Software Challenge of the Future](https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607)
@@ -26,7 +27,6 @@
 * [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
 * [The Art of Leadership: Small Things, Done Well](https://www.amazon.com/dp/1492045691/)
 * [RESILIENT MANAGEMENT](https://www.amazon.com/RESILIENT-MANAGEMENT-Lara-Hogan/dp/1937557820/)
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
 * [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/B07VWYNGCQ/)
 * [Transforming Nokia: The Power of Paranoid Optimism to Lead Through Colossal Change](https://www.amazon.com/Transforming-Nokia-audiobook/dp/B07PGZYN6L)
