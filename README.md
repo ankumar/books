@@ -2,7 +2,6 @@
 
 [Technical Leadership Masterclass](https://github.com/ankumar/Architecture/blob/main/Patterns/Technical%20Leadership.md)
 
-* [Eli Goldratt](https://www.amazon.com/s?k=Eli+Goldratt+collection)
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 * [Reed Hastings: Building Netflix](https://www.amazon.com/Reed-Hastings-Building-Netflix/dp/B082L387VB/)
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
@@ -10,7 +9,9 @@
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
 
+* [Eli Goldratt](https://www.amazon.com/s?k=Eli+Goldratt+collection)
 * [Sam Walton: Made In America](https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835/)
+
 * [Ultra-Large-Scale Systems The Software Challenge of the Future](https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607)
 * [The Customer-Driven Culture: A Microsoft Story](https://learning.oreilly.com/library/view/the-customer-driven-culture/9781492058700/)
 
