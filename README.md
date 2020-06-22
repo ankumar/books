@@ -7,6 +7,7 @@
 * [The Customer-Driven Culture: A Microsoft Story](https://learning.oreilly.com/library/view/the-customer-driven-culture/9781492058700/)
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * [The Unicorn Project ](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)
 * [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8/)
 * [Overcoming Organizational Defenses: Facilitating Organizational Learning](https://www.amazon.com/Overcoming-Organizational-Defenses-Facilitating-Learning/dp/0205123384/)
 * [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/)
@@ -23,6 +24,10 @@
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
 * [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)
 * [Eli Goldratt](https://www.amazon.com/s?k=Eli+Goldratt+collection)
+* [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+* [Reed Hastings: Building Netflix](https://www.amazon.com/Reed-Hastings-Building-Netflix/dp/B082L387VB/)
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/B07VWYNGCQ/)
+* []()
 
 ---
 
