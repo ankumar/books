@@ -27,6 +27,9 @@
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 * [Reed Hastings: Building Netflix](https://www.amazon.com/Reed-Hastings-Building-Netflix/dp/B082L387VB/)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/B07VWYNGCQ/)
+* [Transforming Nokia: The Power of Paranoid Optimism to Lead Through Colossal Change](https://www.amazon.com/Transforming-Nokia-audiobook/dp/B07PGZYN6L)
+* [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-David-Epstein-audiobook/dp/B07N6MPWLS)
+* [Playing to Win: How Strategy Really Works](https://www.amazon.com/Playing-to-Win-audiobook/dp/B00GRMUSOS/)
 * []()
 
 ---
