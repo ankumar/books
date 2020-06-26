@@ -3,6 +3,7 @@
 [Technical Leadership Masterclass](https://github.com/ankumar/Architecture/blob/main/Patterns/Technical%20Leadership.md)
 
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 * [Reed Hastings: Building Netflix](https://www.amazon.com/Reed-Hastings-Building-Netflix/dp/B082L387VB/)
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * [The Unicorn Project ](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)
@@ -46,7 +47,6 @@
 * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
 * [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
 * [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
-* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 
 ---
 
