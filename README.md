@@ -65,3 +65,7 @@
 
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/Resilience-Engineering-Concepts-David-Woods/dp/0754649040)
 * [The Field Guide to Understanding 'Human Error'](https://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI/)
+
+---
+
+* [Narrative of the Life of Frederick Douglass](https://www.amazon.com/dp/1580495761/)
