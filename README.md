@@ -2,6 +2,15 @@
 
 [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 
+* [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
+* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+* [Software Development and Reality Construction](https://www.amazon.com/Software-Development-Reality-Construction-Christiane-dp-354054349X/dp/354054349X/)
+* [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
+* [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
+* [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
+
+---
+
 [Technical Leadership Masterclass](https://github.com/ankumar/Architecture/blob/main/Patterns/Technical%20Leadership.md)
 
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
@@ -37,18 +46,6 @@
 * [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-David-Epstein-audiobook/dp/B07N6MPWLS)
 * [Playing to Win: How Strategy Really Works](https://www.amazon.com/Playing-to-Win-audiobook/dp/B00GRMUSOS/)
 * []()
-
----
-
-* [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
-
----
-
-* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
-* [Software Development and Reality Construction](https://www.amazon.com/Software-Development-Reality-Construction-Christiane-dp-354054349X/dp/354054349X/)
-* [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
-* [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
-* [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
 
 ---
 
