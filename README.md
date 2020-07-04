@@ -62,6 +62,7 @@
 
 ---
 
+* [Engineering a Safer World: Systems Thinking Applied to Safety (Engineering Systems)](https://www.amazon.com/gp/product/0262533693)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/Resilience-Engineering-Concepts-David-Woods/dp/0754649040)
 * [The Field Guide to Understanding 'Human Error'](https://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI/)
 
