@@ -69,3 +69,8 @@
 ---
 
 * [Narrative of the Life of Frederick Douglass](https://www.amazon.com/dp/1580495761/)
+
+---
+# Lists
+
+* https://www.edbatista.com/reading-list.html
