@@ -5,6 +5,7 @@
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 * https://www.edbatista.com/reading-list.html
 
+---
 
 * [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
