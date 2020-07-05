@@ -1,7 +1,5 @@
 # Books
 
-# Lists
-
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 * https://www.edbatista.com/reading-list.html
 
