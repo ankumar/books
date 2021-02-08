@@ -1,5 +1,9 @@
 # Books
 
+* [Ackoff's Best: His Classic Writings on Management](https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342)
+
+---
+
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 * https://www.edbatista.com/reading-list.html
 
