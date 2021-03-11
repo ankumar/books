@@ -18,6 +18,10 @@
 
 ---
 
+* Data and Reality - https://buttondown.email/hillelwayne/archive/bill-kentstravaganza/
+
+---
+
 [Technical Leadership Masterclass](https://github.com/ankumar/Architecture/blob/main/Patterns/Technical%20Leadership.md)
 
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
