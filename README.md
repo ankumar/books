@@ -1,5 +1,9 @@
 # Books
 
+* https://siguccs.org/wp/book-club-lets-read-together/
+
+---
+
 * [Ackoff's Best: His Classic Writings on Management](https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342)
 
 ---
