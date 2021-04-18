@@ -1,28 +1,32 @@
 # Books
 
+## Clubs
 * https://siguccs.org/wp/book-club-lets-read-together/
 
 ---
 
+## Recommendation
+
 * [Ackoff's Best: His Classic Writings on Management](https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342)
+* [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
+* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+* [Data and Reality](https://buttondown.email/hillelwayne/archive/bill-kentstravaganza/)
 
 ---
+
+## Lists
 
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 * https://www.edbatista.com/reading-list.html
 
 ---
 
-* [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
-* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+## Architecture
+
 * [Software Development and Reality Construction](https://www.amazon.com/Software-Development-Reality-Construction-Christiane-dp-354054349X/dp/354054349X/)
 * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
 * [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
 * [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
-
----
-
-* Data and Reality - https://buttondown.email/hillelwayne/archive/bill-kentstravaganza/
 
 ---
 
