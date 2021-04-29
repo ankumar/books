@@ -25,6 +25,7 @@
 * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com)
 * [Ways of Worldmaking](https://www.amazon.com/Ways-Worldmaking-Nelson-Goodman/dp/0915144514)
 * [The Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/dp/1732265178)
+* [THE ART OF SYSTEMS ARCHITECTING](https://sdincose.org/wp-content/uploads/2017/10/TheArtOfSystemsEngineering_inaugural.pdf)
 
 ---
 
