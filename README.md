@@ -63,7 +63,6 @@
 * [Transforming Nokia: The Power of Paranoid Optimism to Lead Through Colossal Change](https://www.amazon.com/Transforming-Nokia-audiobook/dp/B07PGZYN6L)
 * [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-David-Epstein-audiobook/dp/B07N6MPWLS)
 * [Playing to Win: How Strategy Really Works](https://www.amazon.com/Playing-to-Win-audiobook/dp/B00GRMUSOS/)
-* []()
 
 ---
 
