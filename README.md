@@ -2,9 +2,9 @@
 
 ## Recommendation
 
-* [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 * [Ackoff's Best: His Classic Writings on Management](https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342)
 * [UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
+* [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 * [Data and Reality](https://buttondown.email/hillelwayne/archive/bill-kentstravaganza/)
 
