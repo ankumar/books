@@ -17,6 +17,7 @@
 
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 * https://www.edbatista.com/reading-list.html
+* https://www.enterpriseintegrationpatterns.com/books1.html
 
 ---
 
