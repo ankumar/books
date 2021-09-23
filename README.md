@@ -21,6 +21,10 @@
 
 ---
 
+## Culture
+
+* [Sooner Safer Happier: Antipatterns and Patterns for Business Agility](https://soonersaferhappier.com/)
+
 ## Architecture
 
 * [Software Development and Reality Construction](https://www.amazon.com/Software-Development-Reality-Construction-Christiane-dp-354054349X/dp/354054349X/)
