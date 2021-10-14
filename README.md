@@ -91,5 +91,6 @@
 
 ---
 
-
+* [Cloud Strategy](https://leanpub.com/cloudstrategy)
+* [Platform Strategy](https://leanpub.com/platformstrategy)
 
