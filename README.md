@@ -8,6 +8,11 @@
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 * [Data and Reality](https://buttondown.email/hillelwayne/archive/bill-kentstravaganza/)
 
+--
+
+* [Cloud Strategy](https://leanpub.com/cloudstrategy)
+* [Platform Strategy](https://leanpub.com/platformstrategy)
+
 ## Clubs
 * https://siguccs.org/wp/book-club-lets-read-together/
 
@@ -91,6 +96,5 @@
 
 ---
 
-* [Cloud Strategy](https://leanpub.com/cloudstrategy)
-* [Platform Strategy](https://leanpub.com/platformstrategy)
+
 
