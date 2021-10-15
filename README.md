@@ -10,6 +10,7 @@
 
 ## Strategy
 
+* [The Art of Leadership: Purpose and Integrity for Sustainable Success](https://medium.com/an-idea/the-art-of-living-how-to-make-life-more-meaningful-af29107f8a43)
 * [Cloud Strategy](https://leanpub.com/cloudstrategy)
 * [Platform Strategy](https://leanpub.com/platformstrategy)
 
