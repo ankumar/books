@@ -24,6 +24,7 @@
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
 * https://www.edbatista.com/reading-list.html
 * https://www.enterpriseintegrationpatterns.com/books1.html
+* [The Art of Leadership: Purpose and Integrity for Sustainable Success](https://medium.com/an-idea/the-art-of-living-how-to-make-life-more-meaningful-af29107f8a43)
 
 ---
 
