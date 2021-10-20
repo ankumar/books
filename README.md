@@ -83,6 +83,7 @@
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
 * [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing-ebook/dp/B07FMDY5CC/)
 * [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB/)
+* [A Handbook of Software Studies](http://aesthetic-programming.net/)
 
 ---
 
