@@ -99,5 +99,6 @@
 
 ---
 
+* [Mark Twain: Preacher, Prophet, and Social Philosopher](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780192894922.001.0001/oso-9780192894922)
 
 
