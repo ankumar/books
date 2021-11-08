@@ -13,6 +13,7 @@
 * [The Art of Strategy: Steps Towards Business Agility](https://medium.com/an-idea/the-art-of-strategy-ac4165c0c085)
 * [Cloud Strategy](https://leanpub.com/cloudstrategy)
 * [Platform Strategy](https://leanpub.com/platformstrategy)
+* [Building Software Platforms](https://leanpub.com/software-platforms)
 
 ## Clubs
 * https://siguccs.org/wp/book-club-lets-read-together/
