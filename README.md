@@ -14,6 +14,7 @@
 * [Cloud Strategy](https://leanpub.com/cloudstrategy)
 * [Platform Strategy](https://leanpub.com/platformstrategy)
 * [Building Software Platforms](https://leanpub.com/software-platforms)
+* [Sooner Safer Happier: Antipatterns and Patterns for Business Agility](https://soonersaferhappier.com/)
 
 ## Clubs
 * https://siguccs.org/wp/book-club-lets-read-together/
@@ -28,10 +29,6 @@
 * [The Art of Leadership: Purpose and Integrity for Sustainable Success](https://medium.com/an-idea/the-art-of-living-how-to-make-life-more-meaningful-af29107f8a43)
 
 ---
-
-## Culture
-
-* [Sooner Safer Happier: Antipatterns and Patterns for Business Agility](https://soonersaferhappier.com/)
 
 ## Architecture
 
