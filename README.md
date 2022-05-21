@@ -24,6 +24,10 @@
 
 ---
 
+* [Ideas That Created the Future Classic Papers of Computer Science](https://mitpress.mit.edu/books/ideas-created-future)
+
+---
+
 ## Lists
 
 * [Computing the Humanexperience](https://computingthehumanexperience.com/books/)
@@ -98,7 +102,6 @@
 
 ---
 
-* [Ideas That Created the Future Classic Papers of Computer Science](https://mitpress.mit.edu/books/ideas-created-future)
 * [Engineering a Safer World: Systems Thinking Applied to Safety](https://www.amazon.com/gp/product/0262533693)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/Resilience-Engineering-Concepts-David-Woods/dp/0754649040)
 * [The Field Guide to Understanding 'Human Error'](https://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI/)
