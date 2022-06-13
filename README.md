@@ -41,6 +41,7 @@
 * [Read This Twice](https://www.readthistwice.com/person/steven-strogatz)
 * [Books I’ve read](https://sive.rs/book)
 * [short summary/review of the books](https://sirupsen.com/books)
+* http://www.roundcrisis.com/2018/10/04/recommended-history/
 
 ---
 
