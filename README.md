@@ -10,6 +10,7 @@
 * [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 * [Data and Reality](https://buttondown.email/hillelwayne/archive/bill-kentstravaganza/)
+* [The Dawn of Everything: A New History of Humanity](https://www.ted.com/talks/david_wengrow_a_new_understanding_of_human_history_and_the_roots_of_inequality)
 
 ## Strategy
 
